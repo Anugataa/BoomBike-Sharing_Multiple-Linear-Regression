@@ -4,15 +4,15 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 # Business Goal :
 We need to build a model that explains the demand for shared bikes with the available independent variables and to understand how exactly the demands vary with different features. In future, the company, accordingly, can manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for the company management to understand the demand dynamics of a new market.
 # Steps to follow :
-Read and Understand the data
-Clean the dataset (if needed)
-Visualising the data
-Data Preparation
-Splitting the data into Training and Testing dataset
-Building and Training Linear Models
-Residual Analysis of the Train Data
-Making Predictions using the Final model
-Evaluating the model
+- Read and Understand the data
+- Clean the dataset (if needed)
+- Visualising the data
+- Data Preparation
+- Splitting the data into Training and Testing dataset
+- Building and Training Linear Models
+- Residual Analysis of the Train Data
+- Making Predictions using the Final model
+- Evaluating the model
 # Algorithm :
 • Read and Understand the data:-
    - Import necessary libraries, check info, shape and statistical description of
